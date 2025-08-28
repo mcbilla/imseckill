@@ -8,16 +8,16 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>imseckill-service</artifactId>
+    <artifactId>imseckill-seckill</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <description>imseckill-service</description>
+    <description>秒杀系统—秒杀服务</description>
 
     <properties>
         <java.version>1.8</java.version>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
     </properties>
-
+    
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>

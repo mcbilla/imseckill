@@ -8,9 +8,9 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <artifactId>imseckill-auth</artifactId>
+    <artifactId>imseckill-business</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <description>秒杀系统—用户认证服务</description>
+    <description>秒杀系统-业务服务（订单库存服务）</description>
 
     <properties>
         <java.version>1.8</java.version>

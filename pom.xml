@@ -25,8 +25,10 @@
 
     <modules>
         <module>imseckill-auth</module>
+        <module>imseckill-business</module>
         <module>imseckill-gateway</module>
-        <module>imseckill-service</module>
+        <module>imseckill-business</module>
+        <module>imseckill-seckill</module>
     </modules>
 
     <dependencyManagement>
